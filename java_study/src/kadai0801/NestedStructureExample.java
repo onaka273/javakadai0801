@@ -82,9 +82,6 @@ public class NestedStructureExample {
 		
 		
 	}
-	
-	public void name() {
 		
-	}
 
 }
