@@ -83,6 +83,7 @@ public class accounting {
             return price;
         }
         
+        //ここよく分かってない
         public String toString() {
             return name + " - " + price + "円";
         }
